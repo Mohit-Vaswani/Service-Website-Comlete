@@ -834,3 +834,14 @@ span{
     }
 
 }
+
+/* Footer */
+
+footer{
+    text-align: center;
+    margin: 5rem 0rem;
+}
+
+.para p{
+    font-size: 2rem;
+}
